@@ -1,0 +1,28 @@
+{
+  "name": "nextjs-test-security-three",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/charts": "^1.4.2",
+    "@ant-design/cssinjs": "^1.17.0",
+    "@ant-design/icons": "^5.2.6",
+    "@types/node": "20.6.2",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7",
+    "antd": "^5.9.1",
+    "autoprefixer": "10.4.15",
+    "axios": "^1.5.0",
+    "next": "13.4.19",
+    "postcss": "8.4.29",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.3.3",
+    "typescript": "5.2.2"
+  }
+}
